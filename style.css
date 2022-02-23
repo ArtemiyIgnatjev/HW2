@@ -1,0 +1,19 @@
+.container{
+    width: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: nowrap;
+    border: 2px solid black;
+}
+
+.block{
+    background-color: #e2e2e2;
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+}
+ 
+
+
